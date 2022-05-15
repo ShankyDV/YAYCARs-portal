@@ -1,4 +1,4 @@
-# Oxus-Motors
+# YAY-Motors
 
 NOTE: frontend code on `client` branch and backend code on `server` branch.
 
